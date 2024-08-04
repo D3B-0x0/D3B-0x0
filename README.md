@@ -11,7 +11,7 @@
 - 🎓 Cybersecurity student pursuing a BCA
 - 💻 Learning C and passionate about Linux and security in general
 - 👾 Privacy architect
-- 🌱 Currently exploring the depths of cybersecurity and privacy
+- 🛜 Loves networking related stuffs
 
 ## Skills {Learning}
 - Programming: C, Python, Bash, Rust, JavaScript
