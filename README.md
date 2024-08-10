@@ -1,8 +1,11 @@
 # Hi there, I'm Kalidude69 👋
 
-<p align="center">
-  <img src="https://i.imgflip.com/7fhly5.png" alt="Hacker Vibe" width="400">
-</p>
+<div align="center">
+  
+  ![old-school-video-games](https://github.com/user-attachments/assets/de14ffe5-7906-425d-ab18-1f0d6786af80)
+  
+</div>
+
 
 
 
