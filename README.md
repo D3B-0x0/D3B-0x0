@@ -11,7 +11,7 @@
 
 
 ## About Me
-- 🎓 Cybersecurity student pursuing a BCA
+- 🎓 Cybersecurity student 
 - 💻 Learning C and passionate about Linux and security in general
 - 👾 Privacy architect
 - 🛜 Loves networking(BOTH SOCIAL AND TECHNICAL)
