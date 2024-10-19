@@ -11,10 +11,10 @@
 
 
 ## About Me
-- 🎓 Cybersecurity student 
+- 🎓 Computer networking student 
 - 💻 Learning C and passionate about Linux and security in general
 - 👾 Privacy architect
-- 🛜 Loves networking(BOTH SOCIAL AND TECHNICAL)
+- 🛜 Loves  tinkering stuff mostly computers
 
 ## Skills {Learning}
 - Programming: C, Python, Bash, Rust, JavaScript
