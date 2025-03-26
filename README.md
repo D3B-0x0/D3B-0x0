@@ -23,14 +23,14 @@
 
 ## GitHub Stats
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Kalidude69&show_icons=true&theme=catppuccin_mocha"></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalidude69&layout=compact&theme=catppuccin_mocha"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=D3B-0x0&show_icons=true&theme=catppuccin_mocha"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3B-0x0&layout=compact&theme=catppuccin_mocha"></a>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalidude69&theme=catppuccin_mocha"></a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kalidude69&theme=catppuccin_mocha"></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=D3B-0x0&theme=catppuccin_mocha"></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kalidude69&style=flat-square&color=ff69b4" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=D3B-0x0&style=flat-square&color=ff69b4" alt="Profile Views">
 </p>
 
 ## Languages and Tools
@@ -50,9 +50,9 @@
   
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D3vil0p3r/D3vil0p3r/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D3vil0p3r/D3vil0p3r/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/D3vil0p3r/D3vil0p3r/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D3B-0x0/D3B-0x0/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D3B-0x0/D3B-0x0/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/D3B-0x0/D3B-0x0/output/github-contribution-grid-snake.svg" />
 </picture>
 
 
