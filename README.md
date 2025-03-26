@@ -7,19 +7,43 @@
 </div>
 
 
+### 🥷 **About Me**
 
+- 🕶 **Cybersecurity & Networking Operative**
+- 🏴‍☠️ **Linux Cultist (Hyprland, KDE, Gnome, CachyOS)**
+- 🔧 **Hardware Hacker | Open-Source Phantom**
+- 🖤 **Dark Themes, Terminal Life & Catppuccin ☕**
 
+### ⚙️ **Tech Arsenal**
 
-## About Me
-- 🎓 Computer networking student 
-- 💻 Learning C and passionate about Linux and security in general
-- 👾 Privacy architect
-- 🛜 Loves  tinkering stuff mostly computers
+- **Languages{learning}:** C, Python, Bash, Rust, JavaScript
+- **OS:** Linux (CachyOS, Arch-based), OpenWRT _(Windows? Only under duress...)_
+- **Cybersec & Networking:** Wireshark, Nmap, Burp Suite, Ghidra _(Decrypting Reality)_
+- **Hardware & Tinkering:** IoT Warfare, Raspberry Pi, Network Recon
+- **Editors:** NeoVim (btw, I use it 👀), Code-OSS, Zed-Editor
+- **Version Control:** Git (aka my second brain)
+- **Tools:** Docker, SSH
 
-## Skills {Learning}
-- Programming: C, Python, Bash, Rust, JavaScript
-- Tools: Git, SSH, Docker, Hyprland, Arch Linux
-- Security: Network security, Penetration testing, Blue Team, OSINT
+### 💻 **Notable Repositories in My Domains of Interest**
+
+Here are some of the most starred repositories in the realms of cybersecurity and hacking that resonate with my interests:
+
+- **[Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking):**  
+  A collection of various awesome lists for hackers, pentesters, and security researchers.
+
+- **[Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest):**  
+  A curated list of awesome penetration testing resources, tools, and other shiny things.
+
+- **[Awesome Cybersecurity](https://github.com/okhosting/awesome-cyber-security):**  
+  A curated list of awesome cybersecurity resources.
+
+- **[Awesome Security](https://github.com/sbilly/awesome-security):**  
+  A collection of awesome software, libraries, documents, books, resources, and cool stuff about security.
+
+- **[Penetration Testing Resources](https://github.com/wtsxDev/Penetration-Testing):**  
+  A list of awesome penetration testing resources, tools, and other shiny things.
+
+---
 
 ## GitHub Stats
 <p align="center">
@@ -41,19 +65,6 @@
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
-
-<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-
-
-  
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D3B-0x0/D3B-0x0/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D3B-0x0/D3B-0x0/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/D3B-0x0/D3B-0x0/output/github-contribution-grid-snake.svg" />
-</picture>
 
 
 ## Words of Wisdom (ツ)
@@ -83,13 +94,7 @@
 
 <p align="center">
   <a href="mailto:kdebjoity@proton.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/Kalidude69"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> 
+  <a href="https://github.com/D3B-0x0"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> 
   <a href="https://discord.com/users/ghost_2chad_4u"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
-
-
-<p align="center">
-  <img src="https://wallpapercave.com/wp/wp2512867.jpg" alt="Stay Safe!" width="600">
-</p>
-
 
