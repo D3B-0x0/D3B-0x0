@@ -9,41 +9,20 @@
 
 ### 🥷 **About Me**
 
-- 🕶 **Cybersecurity & Networking Operative**
-- 🏴‍☠️ **Linux Cultist (Hyprland, KDE, Gnome, CachyOS)**
-- 🔧 **Hardware Hacker | Open-Source Phantom**
-- 🖤 **Dark Themes, Terminal Life & Catppuccin ☕**
+- 🕶 **Networking And Homelabbing specialist**
+- 🏴‍☠️ **Linux user from half a decade..love linux based systems be it embedded or traditional x86**
+- 🔧 **Hardware Hacker | Currently learning Reverse engineering**
+
 
 ### ⚙️ **Tech Arsenal**
 
-- **Languages{learning}:** C, Python, Bash, Rust, JavaScript
-- **OS:** Linux (CachyOS, Arch-based), OpenWRT _(Windows? Only under duress...)_
-- **Cybersec & Networking:** Wireshark, Nmap, Burp Suite, Ghidra _(Decrypting Reality)_
+- **Languages{learning}:** C, Python, Bash, Rust, JavaScript, html, css
+- **OS:** Linux (CachyOS), OpenWRT, 
+- **Cybersec & Networking:** Wireshark, Nmap, Burp Suite, Ghidra, tcpdump, vpns, vlans, firewalls
 - **Hardware & Tinkering:** IoT Warfare, Raspberry Pi, Network Recon
-- **Editors:** NeoVim (btw, I use it 👀), Code-OSS, Zed-Editor
-- **Version Control:** Git (aka my second brain)
+- **Editors:** NeoVim, Code-OSS, Zed-Editor
+- **Version Control:** Git(trying to self host it until i get some infra)
 - **Tools:** Docker, SSH
-
-### 💻 **Notable Repositories in My Domains of Interest**
-
-Here are some of the most starred repositories in the realms of cybersecurity and hacking that resonate with my interests:
-
-- **[Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking):**  
-  A collection of various awesome lists for hackers, pentesters, and security researchers.
-
-- **[Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest):**  
-  A curated list of awesome penetration testing resources, tools, and other shiny things.
-
-- **[Awesome Cybersecurity](https://github.com/okhosting/awesome-cyber-security):**  
-  A curated list of awesome cybersecurity resources.
-
-- **[Awesome Security](https://github.com/sbilly/awesome-security):**  
-  A collection of awesome software, libraries, documents, books, resources, and cool stuff about security.
-
-- **[Penetration Testing Resources](https://github.com/wtsxDev/Penetration-Testing):**  
-  A list of awesome penetration testing resources, tools, and other shiny things.
-
----
 
 ## GitHub Stats
 <p align="center">
